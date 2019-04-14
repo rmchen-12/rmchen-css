@@ -1,5 +1,5 @@
 {
-  "name": "@rmchen/css",
+  "name": "@rmchen-12/css",
   "version": "1.0.0",
   "description": "fix css-modules problem when nextjs use antd-mobile ",
   "main": "index.js",
