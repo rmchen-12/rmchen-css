@@ -1,0 +1,25 @@
+{
+  "name": "@rmchen/css",
+  "version": "1.0.0",
+  "description": "fix css-modules problem when nextjs use antd-mobile ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rmchen-12/rmchen-css.git"
+  },
+  "keywords": [
+    "antd-mobile",
+    "css-modules",
+    "next",
+    "next.js"
+  ],
+  "author": "rmchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmchen-12/rmchen-css/issues"
+  },
+  "homepage": "https://github.com/rmchen-12/rmchen-css#readme"
+}
